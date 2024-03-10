@@ -38,6 +38,8 @@ const App = () => {
             <Shimmar/>
             <Shimmar/>
             <Shimmar/>
+            <Shimmar/>
+            <Shimmar/>
         </div>
          : (
           <InfiniteScroll 
